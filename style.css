@@ -13,6 +13,11 @@ h1 {
   color: LightSalmon;
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
+}
+
 table {
   margin: auto;
   padding: 10px;
@@ -121,4 +126,5 @@ a:hover {
 
 #mountain {
   padding-bottom: 10px;
+  width: 50%;
 }
