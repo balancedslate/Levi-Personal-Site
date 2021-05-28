@@ -1,0 +1,124 @@
+/* Tag Edits */
+h2 {
+  text-align: center;
+  font-family: 'Niconne', cursive;
+  font-size: 50px;
+  color: Salmon;
+}
+
+h1 {
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Niconne', cursive;
+  color: LightSalmon;
+}
+
+table {
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+  border: none;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 15px;
+  width: 10%;
+  border-color: LightSalmon;
+}
+
+ul {
+  margin-left: 35%;
+  margin-right: 30%;
+  text-align: left;
+  font-size: 18px;
+  padding-bottom: 25px;
+  width: 50%;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Merriweather', serif;
+  padding: 10px;
+}
+
+body {
+  background-color: Azure;
+  text-align: center;
+}
+
+a {
+  color: LightSalmon;
+  font-size: 18px;
+}
+
+a:visited {
+  color: LightSalmon;
+}
+
+a:hover {
+  font-size: 16px;
+}
+
+/* Classes */
+.about {
+  text-align: center;
+}
+
+.aboutMe {
+  margin: auto;
+  text-align: center;
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.skills {
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 20px;
+}
+
+
+.experience {
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 20px;
+}
+
+.overview {
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.top-container {
+  margin: auto;
+  padding: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.hover:hover {
+  background-color: AliceBlue;
+}
+
+/* ID's */
+
+#cloudOne {
+  position: absolute;
+}
+
+#cloudTwo {
+  position: absolute;
+}
+
+#mountain {
+  padding-bottom: 10px;
+}
