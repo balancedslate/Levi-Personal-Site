@@ -1,4 +1,4 @@
-Personal Site
+# Personal Site Overview
 
 This website was created for College of Charleston
 to display basic HTML/CSS skills. 
